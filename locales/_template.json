@@ -695,5 +695,16 @@
   "Your words stay on the page until it can.": "",
   "Zoom": "",
   "Zoom in": "",
-  "Zoom out": ""
+  "Zoom out": "",
+  "Auto-update…": "Auto-update…",
+  "Check for updates automatically": "Check for updates automatically",
+  "Auto-update is off. NEO will not look for new versions.": "Auto-update is off. NEO will not look for new versions.",
+  "Turn on auto-update to check for new versions of NEO.": "Turn on auto-update to check for new versions of NEO.",
+  "Turn On": "Turn On",
+  "Keep Off": "Keep Off",
+  "Auto-update": "Auto-update",
+  "NEO checks for new versions every hour and downloads them quietly. The next time you quit and reopen, the new version takes over.": "NEO checks for new versions every hour and downloads them quietly. The next time you quit and reopen, the new version takes over.",
+  "Auto-update is on. NEO will look for new versions.": "Auto-update is on. NEO will look for new versions.",
+  "Auto-update is off.": "Auto-update is off.",
+  "Turn Off": "Turn Off"
 }
