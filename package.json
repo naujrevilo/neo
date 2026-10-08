@@ -1,9 +1,9 @@
 {
   "name": "neo",
   "productName": "NEO",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "A word processor for authors. Distraction-free by default.",
-  "homepage": "https://github.com/hughhowey/neo",
+  "homepage": "https://github.com/naujrevilo/neo",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -28,7 +28,7 @@
     "productName": "NEO",
     "publish": {
       "provider": "github",
-      "owner": "hughhowey",
+      "owner": "naujrevilo",
       "repo": "neo"
     },
     "mac": {
